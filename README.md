@@ -9,7 +9,7 @@ Once the exploit is completed, the script retrieves any active sessions that hav
 
 To use this exploit, you must have the Metasploit Framework installed and configured on your system. You will also need to have a target system with OpenSSH version 4.7p1 installed and running.
 
-### Setup Instructions
+# Setup Instructions
 ## 1. Set up a target system with OpenSSH version 4.7p1. You can use a virtual machine such as Metasploitable2 for this purpose.
 ![image](https://user-images.githubusercontent.com/87800233/236505619-3c582808-7779-46b7-a53d-f29a63252599.png)
 ## 2. Install the Metasploit Framework on your system. You can download and install it from the Metasploit website.
@@ -23,7 +23,7 @@ To use this exploit, you must have the Metasploit Framework installed and config
 ## 5. Check your Target IP 
 ![image](https://user-images.githubusercontent.com/87800233/236505969-071ffac6-b657-4608-98a6-5c68493e5abc.png)
 
-# In my case Its:-> 192.168.1.5
+## In my case Its:-> 192.168.1.5
 ![image](https://user-images.githubusercontent.com/87800233/236506215-38dd8485-2a15-48b0-8e4b-e7370ca50373.png)
 
 ## Move to the exploit directory and give the execute permission to the exploit script by running the command ' chmod +x openssh_4.7p1.py '
