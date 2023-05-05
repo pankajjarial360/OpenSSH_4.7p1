@@ -1,4 +1,4 @@
-# OpenSSH_4.7p1
+# OpenSSH_4.7p1 CVE-2008-5161.
 OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) exploit 
 
 # Exploit description 
