@@ -1,7 +1,7 @@
 # OpenSSH_4.7p1 CVE-2008-5161.
 OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) exploit 
 
-# Exploit description 
+# Exploit Description 
 
 This is a Python script for exploiting an SSH server running OpenSSH version 4.7p1 on a remote target. The script uses the Metasploit Framework to launch a brute-force attack against the target's SSH service and attempts to log in using a list of usernames and passwords from a wordlist file.
 
