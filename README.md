@@ -12,7 +12,7 @@ Once the exploit is completed, the script retrieves and displays any active sess
 To use this script, the user must have the Metasploit Framework installed and configured on their system. The script can be run from the command line and requires the IP address of the target SSH server to be specified as a command-line argument.
 
 ## Requirement to run  this Exploit
-Step up your lab which have a vesion OpenSSH_4.7p1
+Step up your own lab with vesion OpenSSH_4.7p1
 
 ### In my case I am running Metasploitable2 
 ![image](https://user-images.githubusercontent.com/87800233/236505619-3c582808-7779-46b7-a53d-f29a63252599.png)
