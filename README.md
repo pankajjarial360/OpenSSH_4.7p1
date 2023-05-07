@@ -33,4 +33,4 @@ To use this exploit, you must have the Metasploit Framework installed and config
 
 https://user-images.githubusercontent.com/87800233/236513807-b97fb778-aef0-4872-8878-e33b705c4b7b.mp4
 
-# And here We Are In ( For The Win) and  get The InterActive shell.
+# And here We Are In ( For The Win) and  Enjoy The InterActive shell.
